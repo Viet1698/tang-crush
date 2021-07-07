@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Em có phải là nhà ảo thuật k???
     Tại sao mỗi khi anh nhìn em
     Mọi thứ xung quanh đều biến mất
-    🤭🤭🤭`,
+    CHỉ còn mỗi e trong mắt của anh thôi`,
     btnIntro: 'hihi',
     title: '  😙',
     desc: 'Phải chăng em đã thích anh từ lâu ',
