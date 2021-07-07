@@ -1,12 +1,12 @@
 const CONFIG = {
     introTitle: 'Em à!',
-    introDesc: `Em có phải là nhà ảo thuật k???
+    introDesc: `Em có phải là nhà ảo thuật k?
     Tại sao mỗi khi anh nhìn em.
     Mọi thứ xung quanh đều biến mất.
     Chỉ còn nhìn thấy mỗi em`,
-    btnIntro: 'Ahihi',
+    btnIntro: 'Ahihi <3',
     title: '  😙',
-    desc: 'Trả lời thật nha, Em thích anh từ khi nào ',
+    desc: 'Trả lời thật lòng nha, Em thích anh từ khi nào ? ',
     btnYes: 'Lâu rồi nhưng k dám nói <33',
     btnNo: 'Không hề nha, Anh trai à :3',
     question:'Nói cho anh biết lý do em thích anh đi <333',
