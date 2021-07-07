@@ -4,7 +4,7 @@ const CONFIG = {
     Tại sao mỗi khi anh nhìn em
     Mọi thứ xung quanh đều biến mất
     Chỉ còn mỗi e trong mắt của anh thôi`,
-    btnIntro: 'Ahihi🤭',
+    btnIntro: 'Ahihi',
     title: '  😙',
     desc: 'Trả lời thật nha, Em thích anh từ khi nào ',
     btnYes: 'Lâu rồi nhưng k dám nói <33',
